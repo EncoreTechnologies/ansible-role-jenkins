@@ -12,4 +12,6 @@
 
   roles:
     - geerlingguy.java
+    - andrewrothstein.python
+    - novafloss.jenkins-api
     - role_under_test
